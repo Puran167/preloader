@@ -1,0 +1,9 @@
+#preloader{
+    background: #fff url(https://media3.giphy.com/media/2WjpfxAI5MvC9Nl8U7/giphy.gif?cid=6c09b952rm9cy69rf0y3geqf7oj656ff7m3qx7y2xgvvg2yy&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g) no-repeat center;
+    background-size: 30%;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+  }
+  
